@@ -1,0 +1,38 @@
+#work_img{
+    width: 66%;
+}
+
+h1{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2{
+    font-weight: bold;
+}
+
+.peda{
+    width: 66%;
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6%;
+}
+
+#partenaire_text{
+    text-align: center;
+}
+
+.partenaire{
+    padding: 10px;
+}
+
+.link_logo{
+    border: none;
+    cursor: pointer;
+    
+}
